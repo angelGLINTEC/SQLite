@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DataBase</string>
+    <string name="tViewStr_CodigoItem">Codigo del articulo</string>
+    <string name="btnConsultStr">Consultar codigo</string>
+    <string name="btnDescriptioinStr">Consultar descipcion</string>
+    <string name="btnDeleteStr">Eliminar articulo</string>
+    <string name="btnModifyStr">Modificar articulo</string>
+    <string name="edTxtDescriptionStr">Escribe la descripcion del articulo</string>
+    <string name="tViewArtDescriptionStr">Descripcion del articulo</string>
+    <string name="tViewPrecioArtStr">Precio del articulo</string>
+    <string name="btnCreateStr">Crear Articulo</string>
+</resources>
